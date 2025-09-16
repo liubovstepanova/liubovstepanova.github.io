@@ -1,5 +1,4 @@
 # liubovstepanova.github.io
-Liubov Stepanova analyst portfilio
 Привет, меня зовут Любовь!
 
 Я аналитик данных с финансовым образованием.
